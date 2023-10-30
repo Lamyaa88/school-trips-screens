@@ -1,5 +1,6 @@
 # school-trips-screens
 screenshots
+
 ![WhatsApp Image 2023-10-30 at 9 54 03 PM](https://github.com/Lamyaa88/school-trips-screens/assets/64072468/406d68c0-5bb3-4983-be1b-a87d91af1068)
 ![WhatsApp Image 2023-10-30 at 9 54 05 PM](https://github.com/Lamyaa88/school-trips-screens/assets/64072468/97878a95-e2ba-4e9e-9cc3-728ae6531eaa)
 ![WhatsApp Image 2023-10-30 at 9 54 10 PM](https://github.com/Lamyaa88/school-trips-screens/assets/64072468/89b2965d-1699-4199-bf10-36d21c2c42d4)
